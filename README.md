@@ -6,4 +6,5 @@
 - [Atividade 4](https://karyn-mota.github.io/webi_at4/)
 - [Atividade 5](https://karyn-mota.github.io/webi_at5/)
 - [Atividade 6](https://karyn-mota.github.io/webi_at6/)
-- [Atividade 7]()
+- [Atividade 7](https://karyn-mota.github.io/webi_at7/)
+- [Atividade 8]()
